@@ -4,7 +4,7 @@ A simple, interactive python script to get a user ID and the account data API UR
 
 # Usage
 
-```bash
+```
 usage: main.py [-h] [-s SERVER] [-u USER] [-t TOKEN]
 
 Get the API request URL to fetch a fediverse accounts data by searching for an account.
